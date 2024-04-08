@@ -134,8 +134,8 @@ function sendEmailInternal(To) {
   let name = document.getElementById('name');
   let phone = document.getElementById('phone');
 
-  let SecureToken = '6fb13a8c-3e46-451b-b4d0-48a82345671a';
-  let Host = 'smtp.elasticemail.com';
+  let SecureToken = '***********';
+  let Host = '**********';
   let Username = '*********';
   let Password = '*********';
   let From = '**********';
