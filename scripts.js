@@ -136,7 +136,7 @@ function sendEmailInternal(To) {
 
   let SecureToken = '***********';
   let Host = '**********';
-  let Username = '*********';
+  let Username = '*******';
   let Password = '*******';
   let From = '*******';
   let Subject = 'Тестовое задание, заказ забора №1';
