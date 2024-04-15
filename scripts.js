@@ -134,11 +134,11 @@ function sendEmailInternal(To) {
   let name = document.getElementById('name');
   let phone = document.getElementById('phone');
 
-  let SecureToken = '********';
-  let Host = '*******';
-  let Username = '*******';
-  let Password = '*******';
-  let From = '*******';
+  let SecureToken = '******';
+  let Host = '******';
+  let Username = '******';
+  let Password = '******';
+  let From = '******';
   let Subject = 'Тестовое задание, заказ забора №1';
   let Body =
     name.value +
